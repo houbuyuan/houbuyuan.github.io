@@ -1,2 +1,4 @@
-# kingtime.github.io
-Web for KT
+<head>
+<!-- 以下方式定时转到其他页面 -->
+<meta http-equiv="refresh" content="0;url=http://www.inter-talk.com">
+</head>
